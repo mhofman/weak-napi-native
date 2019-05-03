@@ -1,0 +1,25 @@
+{
+  "name": "@mhofman/weak-napi-native",
+  "version": "1.0.3",
+  "description": "Native bindings from weak-napi package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhofman/weak-napi-native.git"
+  },
+  "keywords": [
+    "weak-napi",
+    "native",
+    "WeakTag",
+    "ObjectInfo"
+  ],
+  "author": "Mathieu Hofman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhofman/weak-napi-native/issues"
+  },
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "weak-napi": "1.0.3"
+  }
+}
